@@ -8,5 +8,5 @@ It converts annoying Twitter images of Emojis into real unicode characters too! 
 ## Instructions
 
 - Go to a page such as your followers or following list. Make sure you are at the top of the page.
-- Copy/paste the code from `capture-follow-list.js` into the browser console and press enter.
+- Copy/paste the code from `capture.js` into the browser console and press enter.
 - Wait for it to complete. Once complete you will get `window.CAPTURED_PROFILE`. To easily copy enter `copy(window.CAPTURED_PROFILE)` in console and press enter.
